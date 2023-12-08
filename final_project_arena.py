@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thur Nov 28 08:15:17 2023
+Created on Thu Nov 28 08:15:17 2023
 
 @author: brian.kelly
 """
