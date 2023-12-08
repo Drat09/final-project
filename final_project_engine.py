@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 18 08:37:34 2023
+Created on Thu Nov 28 08:37:34 2023
 
-@author: brian.kelly and Dominick Smith
+@author: brian.kelly
 """
 
 import random
